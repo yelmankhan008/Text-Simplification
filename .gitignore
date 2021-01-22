@@ -1,6 +1,6 @@
 #Ignore all the files and folders
 *
-#Except the one below:
+#Except the ones below:
 !.gitignore
 !get_bins.py
 !get_scores.py
